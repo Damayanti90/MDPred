@@ -1,16 +1,23 @@
 MDPred
 
-Here, we predict drug-GO and drug-pathway associations leading to deriving multifunctionality of drugs. For computational convenience, drugs have been renamed as drug_1, drug_2, etc. Similarly GO ids have been renamed as GO_1, GO_2,etc. Alike pathways, have been renamed as pathway_1, pathway_2, etc.
+Here, we predict drug-GO and drug-pathway associations leading to deriving multifunctionality of drugs. 
+
 
 Instructions for execution
 
 1. Download all files and place them in one folder
 
-2. Execute both .py files in any order
+2. Unrar the .rar files
 
+3. set up environment via environment.yml
 
-Constraints
+4. Execute .py files in the following order-
+       i. a_fv_formation_i.py
+       ii. b_ID_formation.py
+       iii. c_fv_formation_ii.py
+       iv. d_xgboost_link_classification.py
+       v.  e_lightGBM_link_classification.py
+       vi. f_clustering_preparation.py
+       vii. g_clustering.py
+  
 
-1. python 3.7.3
-
-2. xgboost 1.6.2
