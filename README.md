@@ -1,6 +1,6 @@
 MDPred
 
-Here, we predict drug-GO and drug-pathway associations leading to deriving multifunctionality of drugs. 
+Here, we predict GO and pathway associations related to Dipeptidyl peptidase-4 inhibitors (gliptins) leading to deriving  their multifunctionality. 
 
 
 Instructions for execution
