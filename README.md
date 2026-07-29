@@ -5,7 +5,7 @@ Here, we predict GO and pathway associations related to Dipeptidyl peptidase-4 i
 
 Instructions for execution
 
-1. download all files and place them in one folder
+1. unzip quick_run_upload.zip
 
 2. set up the environment using environment.yml
 
