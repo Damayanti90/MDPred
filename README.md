@@ -41,7 +41,7 @@ Instructions for execution
 
 For a quick start:
 
-1. download unzip quick_run_upload.zip
+1. download and unzip quick_run_upload.zip
 
 2. set up the environment using environment.yml inside quick_run_upload folder
 
